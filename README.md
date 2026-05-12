@@ -58,9 +58,9 @@ The project was developed and executed using Google Colab.
 ```text
 house-price-prediction/
 │
-├── house_price_prediction.ipynb
+├── Copy of main.ipynb
 ├── README.md
-└── dataset.csv
+└── House_Price.csv
 ```
 
 ---
